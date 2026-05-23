@@ -1,0 +1,13 @@
+langchain-classic
+PyMuPDF
+langchain
+langchain-community
+langchain-huggingface
+langchain-groq
+pypdf
+chromadb
+sentence-transformers
+rank-bm25
+streamlit
+python-dotenv
+plotly
